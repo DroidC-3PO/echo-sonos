@@ -1,0 +1,197 @@
+
+
+PlayMoreByArtistIntent  spiele mehr lieder von diesem künstler
+PlayMoreByArtistIntent  spiele mehr songs von diesem künstler
+PlayMoreByArtistIntent  spiele mehr musik von diesem künstler
+PlayMoreByArtistIntent  spiele mehr tracks von diesem künstler
+
+PlayMoreByArtistIntent  spiele mehr lieder von diesem artist
+PlayMoreByArtistIntent  spiele mehr songs von diesem artist
+PlayMoreByArtistIntent  spiele mehr musik von diesem artist
+PlayMoreByArtistIntent  spiele mehr tracks von diesem artist
+
+PlayMoreLikeTrackIntent spiele vergleichbares
+PlayMoreLikeTrackIntent spiele änliches
+
+MusicIntent  spiele {coldplay|Name} 
+
+AlbumIntent  spiele album {boston|Name} 
+AlbumIntent  spiele album von {boston|Name} 
+
+ArtistIntent spiele artist {coldplay|Name}  
+ArtistIntent spiele künstler {coldplay|Name} 
+
+TrackIntent  spiele track {lola|Name}
+TrackIntent  spiele track von {lola|Name}
+TrackIntent  spiele song {lola|Name}
+TrackIntent  spiele song von {lola|Name}
+
+MusicRadioIntent spiele radio {coldplay|Name}
+MusicRadioIntent spiele radio von artist {coldplay|Name}
+MusicRadioIntent spiele radio von künstler {coldplay|Name}
+
+MusicRadioIntent starte radio {coldplay|Name}
+MusicRadioIntent starte radio von artist {coldplay|Name}
+MusicRadioIntent starte radio von künstler {coldplay|Name}
+
+
+PlayPresetIntent spiele preset {Preset}
+PlayPresetIntent spiele vorgabe {Preset}
+
+PlaylistIntent spiele playlist {Preset}
+PlaylistIntent spiele {Preset}
+
+
+
+FavoriteIntent spiele favorit {Preset}
+FavoriteIntent favorit {Preset}
+
+
+
+
+SiriusXMStationIntent start sirius XM {Station} in the {Room}
+
+
+PandoraMusicIntent tune to pandora {madona|Name} in the {Room}
+
+PandoraThumbsUpIntent give the current song in the {Room} a thumbs up
+
+PandoraThumbsDownIntent give the current song in the {Room} a thumbs down
+
+ChangeRoomIntent change room to {Room}
+
+
+ChangeRoomAndServiceIntent change room to {Room} and music to {Service}
+
+
+
+ChangeServiceIntent wechsle musik service zu {Service}
+ChangeServiceIntent wechsle service zu {Service}
+
+ResumeAllIntent alles fortsetzen
+ResumeAllIntent alle wiedergaben fortsetzen
+ResumeAllIntent alles weiter spielen
+ResumeAllIntent alles weiter abspielen
+
+ResumeIntent fortsetzen
+ResumeIntent wiedergabe fortsetzen
+ResumeIntent weiter spielen
+ResumeIntent weiter abspielenfortsetzen
+
+PauseAllIntent pausier alle
+PauseAllIntent pausier alle wiedergaben
+PauseAllIntent alle wiedergaben pausieren
+PauseAllIntent stopp alle
+PauseAllIntent alles pausieren
+PauseAllIntent stoppe alle wiedergaben
+PauseAllIntent alle wiedergaben stoppen
+PauseAllIntent alles anhalten
+PauseAllIntent alle wiedergaben anhalten
+
+
+PauseIntent pausieren
+PauseIntent stoppen
+PauseIntent anhalten
+
+
+VolumeUpIntent lautstärke hoch
+VolumeUpIntent lautstärke höher
+VolumeUpIntent lauter
+VolumeUpIntent lautstärke hochsetzen
+VolumeUpIntent volume hoch
+VolumeUpIntent erhöhe lautstärke
+
+
+VolumeDownIntent lautstärke leiser
+VolumeDownIntent leiser
+VolumeDownIntent volume runder
+VolumeUpIntent senke lautstärke
+
+
+SetVolumeIntent setze lautstärke auf {Percent}
+SetVolumeIntent erhöhe lautstärke um {Percent}
+SetVolumeIntent verringere lautstärke um {Percent}
+SetVolumeIntent setze lautstärke auf {Percent} prozent
+SetVolumeIntent erhöhe lautstärke um {Percent} prozent
+SetVolumeIntent verringere lautstärke um {Percent} prozent
+
+NextTrackIntent nächstes lied abspielen 
+NextTrackIntent nächstes lied
+NextTrackIntent nächster song
+NextTrackIntent ein lied vor
+NextTrackIntent ein song vor
+NextTrackIntent vor
+
+PreviousTrackIntent vorheriger song abspielen
+PreviousTrackIntent vorheriger song 
+PreviousTrackIntent vorheriger leid abspielen
+PreviousTrackIntent vorheriger lied
+PreviousTrackIntent ein lied zurück
+PreviousTrackIntent ein song zurück
+PreviousTrackIntent zurück
+
+
+ClearQueueIntent lösche playlist
+ClearQueueIntent lösche warteschlange
+ClearQueueIntent bereinige playlist
+ClearQueueIntent bereinige warteschlange
+ClearQueueIntent setze playlist zurück
+ClearQueueIntent setze warteschlange zurück
+
+
+WhatsPlayingIntent welches lied spielt aktuell
+WhatsPlayingIntent welcher song spielt aktuell
+WhatsPlayingIntent wie heißt das lied
+WhatsPlayingIntent wer spielt dieses lied
+WhatsPlayingIntent wer spielt diesen song
+WhatsPlayingIntent was wird abgespielt
+WhatsPlayingIntent was spielt aktuell
+WhatsPlayingIntent was spielt grade
+WhatsPlayingIntent wie heißst dieser künstler
+WhatsPlayingIntent wie heißst dieser artist
+
+
+MuteIntent mute
+MuteIntent stumm
+MuteIntent stumm schalten
+MuteIntent stummschalten
+MuteIntent schalte stumm
+MuteIntent ton aus
+MuteIntent ton ausschalten
+
+
+
+UnmuteIntent unmute
+UnmuteIntent ton einschalten
+
+
+RepeatIntent schalte wiederholen {Toggle} 
+RepeatIntent wiederholen {Toggle} 
+RepeatIntent schalte repeat {Toggle}
+RepeatIntent repeat {Toggle}
+
+ShuffleIntent schalte shuffle {Toggle}  
+
+ShuffleIntent schalte shuffle {Toggle} 
+ShuffleIntent shuffle {Toggle} 
+ShuffleIntent schalte shuffle {Toggle} 
+ShuffleIntent shuffle {Toggle} 
+ShuffleIntent durcheinander mischen {Toggle}
+ShuffleIntent  schalte durcheinander mischen {Toggle}
+
+CrossfadeIntent crossfade {Toggle}
+CrossfadeIntent schalte crossfade {Toggle}
+CrossfadeIntent überblenden {Toggle}
+CrossfadeIntent schalte überblenden {Toggle}
+
+
+
+JoinGroupIntent gruppiere {JoiningRoom} mit {PlayingRoom}
+JoinGroupIntent füge {JoiningRoom} mit {PlayingRoom} zusammen
+
+
+UngroupIntent ungroup {Room}
+UngroupIntent gruppierung aufheben {Room}
+UngroupIntent hebe gruppierung auf {Room}
+UngroupIntent gruppen aufheben {Room}
+UngroupIntent hebe gruppe auf {Room}

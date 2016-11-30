@@ -1,0 +1,11 @@
+wohnzimmer
+esszimmer
+familienraum
+büro
+schlafzimmer
+küche
+fernsehzimmer
+gästezimmer
+fluhr
+kinderzimmer
+
